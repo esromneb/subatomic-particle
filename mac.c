@@ -8,3 +8,6 @@ main()
 
 
 function3()
+
+
+function2()
